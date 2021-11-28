@@ -1,0 +1,162 @@
+header{
+    background-color: #2d245b;
+}
+
+#particles-js {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+  }
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&family=Poppins:ital,wght@1,900&family=Rubik:ital,wght@1,300&display=swap");
+.img{
+    width: 550px;
+    margin: auto;
+    margin-top: 40px;
+    display: block;
+    position: relative;
+    z-index: 1;
+}
+
+.q{
+    font-size: 30px;
+}
+
+.link{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    z-index: 1;
+}
+.t{
+    padding: 10px ;
+}
+
+.titulo {
+    color: #471bdb;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    font-weight: bold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.img2{
+    width: 350px;
+    margin: auto;
+    display: block;
+    position: relative;
+    z-index: 1;
+    border-radius: 50px;
+}
+
+.cover {
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 100px;
+    position: relative;
+    z-index: 99;
+    justify-content: center;
+  }
+  
+  .cont_cover {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+  }
+  
+  .cover .cont_info {
+    max-width: 520px;
+    margin-top: -20px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .cover h1 {
+    max-width: 450px;
+    font-size: 60px;
+    font-weight: 900;
+    color: white;
+  }
+  
+  .cover h2 {
+    margin: auto;
+    font-size: 60px;
+    font-weight: 900;
+    color: #471bdb;
+  }
+
+  .cover p {
+    margin-top: 10px;
+    color: white;
+    font-family: "Rubik", sans-serif;
+  }
+  
+  .cover input[type="button"] {
+    padding: 10px 40px;
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    color: white;
+    background: #471bdb;
+    border-radius: 20px;
+    box-shadow: 1px 1px 30px -5px #20202049;
+    cursor: pointer;
+    transition: box-shadow 500ms;
+  }
+  .cover input[type="button"]:hover {
+    box-shadow: 1px 1px 30px -5px #20202085;
+    color: black;
+    background: white;
+    text-align: center;
+  }
+  
+
+  footer{
+    position: relative;
+    z-index: 1;
+    
+  }
+
+  .link2{
+      font-size: 40px;
+      text-align: right;
+  }
+
+
+  .fab{
+      color: #2d245b;
+      font-size: 40px;
+  }
+  
+  .contenedor-sobre-nosotros{
+      text-align: center;
+  }
+.pa{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    font-weight: bold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+
+.btn:hover{
+    color: #471bdb;
+}
+.btn{
+  color: black;
+  border: black;
+}
+
+.ad{
+  text-align: center;
+}
