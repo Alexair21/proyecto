@@ -4,6 +4,7 @@ const typed = new Typed('.typed',{
         '<i class="palabra">  SOLUCION?</i>',
         '<i class="palabra">  AYUDA?</i>',
 		'<i class="palabra">  SOLUCIÓN?</i>',
+		'<i class="palabra">  BUENA NOTA?</i>',
     ],
     stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
 	typeSpeed: 75, // Velocidad en mlisegundos para poner una letra,
